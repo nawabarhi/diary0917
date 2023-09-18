@@ -1,0 +1,23 @@
+html {
+  text-align: center;
+  background-color: #2ecc71;
+  color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.8;
+}
+
+ul {
+  text-align: left;
+}
+
+small {
+  text-decoration-line: underline;
+}
+
+.start {
+  line-height: 0%;
+}
+
+.end {
+  text-decoration-line: underline;
+}
